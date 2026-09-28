@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- TimeSeriesTracker data / artifacts (regenerate with glacier_mask_area.py) ---
+stacks/
+weights/
+glacier_masks/
+__pycache__/
